@@ -1,7 +1,7 @@
 # sql-challenge
 During this project, I did a research project about people whom the company, Pewlett Hackard, employed during the 1980s and 1990s. I designed six tables to hold the data from six CSV files, imported the CSV files into a SQL database, and then answered questions about the data. I performed data modeling, data engineering and data analysis while doing these tasks. First, to model the data, I inspected the CSV files and then sketched an ERD of the tables. This ERD is saved in this folder as ERD.png. Next, I created a table schema for each of the six CSV files, remembering to specify the data types, primary keys, foreign keys and other constraints. Then, I imported each CSV file into SQL tables. My table schemata is saved in the file table_schemata.sql.
 
-#Analysis
+# Analysis
 
 Next, for the Data Analysis part of this project, the file queries.sql contains my queries that I wrote to answer the following:
 
